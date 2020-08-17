@@ -15,3 +15,6 @@ Videos from vikx (back up of youtube videos): [vikx_source.csv](vikx_source.csv)
 
 ## What is missing
 See [known_missing.csv](known_missing.csv) + off channel collabs (some off channel collabs were included but not all)
+
+## Incomplete archive.txt list
+In 歌枠, the `archive.txt` file is missing the ids from files in the 歌枠\Extra folder. They are included in [youtube_source.csv](youtube_source.csv).
