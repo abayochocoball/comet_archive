@@ -18,3 +18,23 @@ See [known_missing.csv](known_missing.csv) + off channel collabs (some off chann
 
 ## Incomplete archive.txt list
 In 歌枠, the `archive.txt` file is missing the ids from files in the 歌枠\Extra folder. They are included in [youtube_source.csv](youtube_source.csv).
+
+## Newer stuff
+Youtube ids for videos that you may be interested in archiving that are new and not included.
+```
+youtube qcmOlOpSe_8
+youtube lDT4Go85pMk
+youtube pBofIN_HFeM
+youtube 6JGN4C_YpFo
+youtube mK8FnmMV50s
+youtube 53MFzm-7mgQ
+youtube 1WfH4WMGNqY
+youtube mkepti6Zfdg
+youtube BIrURmM8D2A
+youtube bGbFbmuekdw
+youtube -cWxSCiPKk4
+youtube _4PF1LgGX-U
+youtube jSbK8HKu4Ps
+youtube FztEmE7F68Q
+youtube kXsyY4bbyPI
+```
